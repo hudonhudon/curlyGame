@@ -1493,3 +1493,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myon
 [22Apr2025 22:51:11.857] [Server thread/INFO] [simplelogin/]: Player lugalnt has successfully logged in.
 [22Apr2025 22:53:53.876] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/859, l='ServerLevel[world]', x=-331.42, y=116.65, z=-304.04]
 [22Apr2025 22:54:43.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [Ice Bucket Challenge]
+[22Apr2025 23:09:05.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@478dce80
+[22Apr2025 23:09:05.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fuki[/127.177.192.243:45569] logged in with entity id 3278 at (-280.59771964735245, -39.0, -255.69999998807907)
+[22Apr2025 23:09:05.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki joined the game
+[22Apr2025 23:09:05.309] [Server thread/INFO] [Waila/]: Syncing config to fuki (23f7ed21-0184-37bd-914f-3d6f1db60cc3)
+[22Apr2025 23:09:06.621] [Server thread/INFO] [simplelogin/]: Player fuki has successfully logged in.
+[22Apr2025 23:13:44.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [Getting an Upgrade]
