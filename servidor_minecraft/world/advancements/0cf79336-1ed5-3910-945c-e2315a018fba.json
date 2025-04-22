@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-04-22 23:41:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-22 10:06:35 +0000"
@@ -200,6 +206,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-22 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-04-22 23:41:25 +0000"
     },
     "done": true
   },
@@ -416,6 +428,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-04-22 23:41:25 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-22 10:06:35 +0000"
@@ -464,14 +482,22 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-04-22 23:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-22 10:06:35 +0000",
       "minecraft:river": "2025-04-22 10:18:29 +0000",
       "minecraft:forest": "2025-04-22 23:32:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-22 10:18:45 +0000",
+      "minecraft:frozen_peaks": "2025-04-22 23:35:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-22 23:32:54 +0000",
-      "minecraft:meadow": "2025-04-22 23:35:05 +0000"
+      "minecraft:meadow": "2025-04-22 23:35:05 +0000",
+      "minecraft:plains": "2025-04-22 23:41:05 +0000"
     },
     "done": false
   },
