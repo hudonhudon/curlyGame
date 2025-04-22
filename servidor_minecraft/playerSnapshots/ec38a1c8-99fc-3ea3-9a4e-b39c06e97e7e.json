@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "playerUUID": "ec38a1c8-99fc-3ea3-9a4e-b39c06e97e7e",
+  "playerNickname": "Natanael__Cano",
+  "timestamp": 1745366093,
+  "completed": 0,
+  "survived": 0,
+  "failed": 0,
+  "vaultLevel": 0,
+  "levelPercent": 0.0,
+  "vanillaAttributes": {
+    "minecraft:generic.max_health": 20.0,
+    "minecraft:generic.knockback_resistance": 0.0,
+    "minecraft:generic.movement_speed": 0.13000000312924387,
+    "minecraft:generic.attack_damage": 5.0,
+    "minecraft:generic.attack_knockback": 0.0,
+    "minecraft:generic.attack_speed": 1.5999999046325684,
+    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.armor_toughness": 0.0,
+    "minecraft:generic.luck": 0.0,
+    "botania:pixie_spawn_chance": 0.0,
+    "forge:swim_speed": 1.0,
+    "forge:nametag_distance": 64.0,
+    "forge:entity_gravity": 0.08,
+    "forge:reach_distance": 4.5,
+    "forge:attack_range": 3.0,
+    "forge:step_height_addition": 0.0,
+    "the_vault:generic.crit_chance": 0.0,
+    "the_vault:generic.crit_multiplier": 0.0,
+    "the_vault:generic.tp_chance": 0.0,
+    "the_vault:generic.indirect_tp_chance": 0.0,
+    "the_vault:generic.tp_range": 32.0,
+    "the_vault:generic.durability_wear_reduction_cap": 0.0,
+    "the_vault:generic.potion_resistance": 0.0,
+    "the_vault:generic.size_scale": 1.0,
+    "the_vault:generic.break_armor_chance": 0.0,
+    "the_vault:generic.mana_max": 100.0,
+    "the_vault:generic.mana_regen": 1.0,
+    "the_vault:generic.reach": 0.0,
+    "the_vault:generic.crossbow_charge_time": 0.0,
+    "the_vault:generic.bow_charge_time": 20.0,
+    "the_vault:generic.thorns_chance": 0.0,
+    "the_vault:generic.thorns_damage": 0.0,
+    "the_vault:generic.mana_shield": 0.0
+  },
+  "gearAttributes": {
+    "the_vault:ability_power": 0.0,
+    "the_vault:healing_effectiveness": 0.0,
+    "the_vault:cooldown_reduction": 0.0,
+    "the_vault:resistance": 0.5,
+    "the_vault:block": 0.05,
+    "the_vault:critical_hit_mitigation": 0.0,
+    "the_vault:durability_wear_reduction": 0.0,
+    "the_vault:thorns_damage_flat": 0.0,
+    "the_vault:on_hit_chain": 0,
+    "the_vault:on_hit_stun": 0.0,
+    "the_vault:shocking_hit_chance": 0.0,
+    "the_vault:sweeping_hit_chance": 0.0,
+    "the_vault:item_quantity": 0.0,
+    "the_vault:item_rarity": 0.0,
+    "the_vault:trap_disarming": 0.0,
+    "the_vault:copiously": 0.0,
+    "the_vault:mining_speed": 0.0,
+    "the_vault:soul_chance": 0.0,
+    "the_vault:lucky_hit_chance": 0.0,
+    "the_vault:damage_increase": 0.0,
+    "the_vault:damage_illagers": 0.0,
+    "the_vault:damage_spiders": 0.0,
+    "the_vault:damage_undead": 0.0,
+    "the_vault:damage_nether": 0.0,
+    "the_vault:velara_affinity": 0.0
+  },
+  "summaryAttributes": {
+    "dps": 7.999999523162842,
+    "defense": 0.08653849913523715
+  },
+  "reputation": {
+    "Velara": 0,
+    "Tenos": 0,
+    "Wendarr": 0,
+    "Idona": 0
+  },
+  "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:stone_sword",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"7a16ac43-cd2d-4026-91eb-3d369f7fa085\",\"attributes\":[]}"
+    },
+    "OFFHAND": {
+      "itemKey": "minecraft:shield",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"e6fe9217-211d-4399-9acb-b78ac5e5c1f0\",\"attributes\":[]}"
+    },
+    "FEET": {
+      "itemKey": "minecraft:iron_boots",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"790b6c43-a086-469c-8662-e541bb843898\",\"attributes\":[]}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:iron_leggings",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"ce9290e0-e957-42ed-94e7-e0edc392750e\",\"attributes\":[]}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:iron_chestplate",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"6d6e8918-e7d9-47b7-8227-97b40dda6f2e\",\"attributes\":[]}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:iron_helmet",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"7340d274-553f-4118-bf8d-6412f2915d83\",\"attributes\":[]}"
+    }
+  },
+  "abilities": {},
+  "talents": {},
+  "expertises": {},
+  "researches": [],
+  "skillTemplates": []
+}

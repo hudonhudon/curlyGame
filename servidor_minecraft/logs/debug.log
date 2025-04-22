@@ -12671,3 +12671,288 @@ com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myon
 [22Apr2025 23:47:27.465] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [22Apr2025 23:47:51.984] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [22Apr2025 23:48:19.168] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:48:47.908] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:49:12.377] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:49:37.810] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:50:01.583] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:50:28.652] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:50:37.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:50:37.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 23:50:55.097] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:51:21.879] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:51:48.982] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:52:16.994] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:52:40.982] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:53:10.653] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:53:34.866] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:53:59.594] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:54:03.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has made the advancement [Stone Age]
+[22Apr2025 23:54:25.434] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:54:42.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt opened a Vault!
+[22Apr2025 23:54:50.268] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:54:50.495] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loading config file /workspaces/curlyGame/servidor_minecraft/config/ironfurnaces-client.toml
+[22Apr2025 23:54:50.495] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Built TOML config for /workspaces/curlyGame/servidor_minecraft/config/ironfurnaces-client.toml
+[22Apr2025 23:54:50.496] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loaded TOML config file /workspaces/curlyGame/servidor_minecraft/config/ironfurnaces-client.toml
+[22Apr2025 23:54:50.498] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loading config file /workspaces/curlyGame/servidor_minecraft/config/ironfurnaces.toml
+[22Apr2025 23:54:50.498] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Built TOML config for /workspaces/curlyGame/servidor_minecraft/config/ironfurnaces.toml
+[22Apr2025 23:54:50.498] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loaded TOML config file /workspaces/curlyGame/servidor_minecraft/config/ironfurnaces.toml
+[22Apr2025 23:54:50.499] [Server thread/DEBUG] [com.simibubi.create.Create/]: Prepared Redstone Network Space for null
+[22Apr2025 23:54:50.499] [Server thread/DEBUG] [com.simibubi.create.Create/]: Prepared Kinetic Network Space for null
+[22Apr2025 23:54:50.776] [Worker-Main-6/DEBUG] [mixin/]: Mixing MixinPlacementSettings from vaultfaster.mixins.json into iskallia.vault.core.world.template.PlacementSettings
+[22Apr2025 23:54:50.779] [Worker-Main-6/DEBUG] [mixin/]: Renaming synthetic method lambda$new$0()Ljava/util/List; to md378b52$lambda$new$0$0 in vaultfaster.mixins.json:MixinPlacementSettings
+[22Apr2025 23:54:50.790] [Worker-Main-5/DEBUG] [mixin/]: Mixing template.MixinChunkedTemplate from vaultfaster.mixins.json into iskallia.vault.core.world.template.configured.ChunkedTemplate
+[22Apr2025 23:54:50.873] [Worker-Main-5/DEBUG] [mixin/]: Mixing processor.FixMirrorEntityProcessor from vaultfaster.mixins.json into iskallia.vault.core.world.processor.entity.MirrorEntityProcessor
+[22Apr2025 23:54:50.877] [Worker-Main-5/DEBUG] [mixin/]: Mixing processor.FixRotateEntityProcessor from vaultfaster.mixins.json into iskallia.vault.core.world.processor.entity.RotateEntityProcessor
+[22Apr2025 23:54:50.934] [Worker-Main-5/DEBUG] [mixin/]: Mixing accessors.PredicateIdAccessor from vaultfaster.mixins.json into iskallia.vault.core.world.data.tile.PartialBlockTag
+[22Apr2025 23:54:50.949] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent kotlin/jvm/internal/Lambda for class implementslegend/mod/vaultfaster/TileMapperKt$getIndices$4 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-2,5,main]
+[22Apr2025 23:54:50.949] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: kotlin.jvm.internal.Lambda
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar%232!/:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapperKt.getIndices(TileMapper.kt:222) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:173) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:131) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addFlattening(TileMapper.kt:152) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:133) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addFlattening(TileMapper.kt:152) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:133) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor$default(TileMapper.kt:112) ~[?:?]
+	at implementslegend.mod.vaultfaster.kotlinmixins.KMixinPlacementSettings.getTileMapper(MixinPlacementSettings.kt:22) ~[?:?]
+	at iskallia.vault.core.world.template.PlacementSettings.getTileMapper(PlacementSettings.java:535) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.tileMappingFunc(StructureTemplate.java:1533) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.md378b52$lambda$getTileStream$0$5(StructureTemplate.java:1541) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) [?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) [?:?]
+	at java.util.stream.AbstractTask.compute(AbstractTask.java:327) [?:?]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[22Apr2025 23:54:50.961] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent kotlin/jvm/internal/FunctionReferenceImpl for class implementslegend/mod/vaultfaster/TileMapperKt$getIndices$2 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-2,5,main]
+[22Apr2025 23:54:50.962] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar%232!/:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapperKt.getIndices(TileMapper.kt:206) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:173) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:129) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor$default(TileMapper.kt:112) ~[?:?]
+	at implementslegend.mod.vaultfaster.kotlinmixins.KMixinPlacementSettings.getTileMapper(MixinPlacementSettings.kt:22) ~[?:?]
+	at iskallia.vault.core.world.template.PlacementSettings.getTileMapper(PlacementSettings.java:535) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.tileMappingFunc(StructureTemplate.java:1533) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.md378b52$lambda$getTileStream$0$5(StructureTemplate.java:1541) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) [?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) [?:?]
+	at java.util.stream.AbstractTask.compute(AbstractTask.java:327) [?:?]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[22Apr2025 23:54:50.977] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent kotlin/jvm/internal/FunctionReferenceImpl for class implementslegend/mod/vaultfaster/FastWeightedList$random$2 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-2,5,main]
+[22Apr2025 23:54:50.977] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar%232!/:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at implementslegend.mod.vaultfaster.FastWeightedList.random(FastWeightedList.kt:38) ~[?:?]
+	at iskallia.vault.core.world.processor.tile.WeightedTileProcessor.redirect$zjj000$fastRandom(WeightedTileProcessor.java:525) ~[?:?]
+	at iskallia.vault.core.world.processor.tile.WeightedTileProcessor.process(WeightedTileProcessor.java:34) ~[?:?]
+	at iskallia.vault.core.world.processor.tile.WeightedTileProcessor.process(WeightedTileProcessor.java:9) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.mapBlock(TileMapper.kt:83) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.tileMappingFunc(StructureTemplate.java:1533) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.md378b52$lambda$getTileStream$0$5(StructureTemplate.java:1541) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) [?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) [?:?]
+	at java.util.stream.AbstractTask.compute(AbstractTask.java:327) [?:?]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[22Apr2025 23:54:51.043] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent kotlin/jvm/internal/Lambda for class implementslegend/mod/vaultfaster/SectionedTemplateKt$TilesToTemplatesCollector$3$1$1 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-2,5,main]
+[22Apr2025 23:54:51.043] [ForkJoinPool.commonPool-worker-2/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: kotlin.jvm.internal.Lambda
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar%232!/:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at implementslegend.mod.vaultfaster.SectionedTemplateKt.TilesToTemplatesCollector$lambda$9(SectionedTemplate.kt:95) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.combine(ReduceOps.java:174) [?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.combine(ReduceOps.java:160) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.onCompletion(ReduceOps.java:967) [?:?]
+	at java.util.concurrent.CountedCompleter.tryComplete(CountedCompleter.java:597) [?:?]
+	at java.util.stream.AbstractTask.compute(AbstractTask.java:328) [?:?]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[22Apr2025 23:54:51.045] [Vault-Room-Generator-Thread-79/DEBUG] [mixin/]: Mixing template.StaticStreamedTemplate from vaultfaster.mixins.json into iskallia.vault.core.world.template.StaticTemplate
+[22Apr2025 23:54:51.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [The Vault]
+[22Apr2025 23:54:51.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[22Apr2025 23:54:52.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [The Vault]
+[22Apr2025 23:54:52.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[22Apr2025 23:54:52.249] [ForkJoinPool.commonPool-worker-4/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent kotlin/jvm/internal/FunctionReferenceImpl for class implementslegend/mod/vaultfaster/TileMapperKt$getIndices$3 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-4,5,main]
+[22Apr2025 23:54:52.249] [ForkJoinPool.commonPool-worker-4/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar%232!/:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapperKt.getIndices(TileMapper.kt:219) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:173) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor(TileMapper.kt:129) ~[?:?]
+	at implementslegend.mod.vaultfaster.TileMapper.addProcessor$default(TileMapper.kt:112) ~[?:?]
+	at implementslegend.mod.vaultfaster.kotlinmixins.KMixinPlacementSettings.getTileMapper(MixinPlacementSettings.kt:22) ~[?:?]
+	at iskallia.vault.core.world.template.PlacementSettings.getTileMapper(PlacementSettings.java:535) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.tileMappingFunc(StructureTemplate.java:1533) ~[?:?]
+	at iskallia.vault.core.world.template.StructureTemplate.md378b52$lambda$getTileStream$0$5(StructureTemplate.java:1541) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) [?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) [?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) [?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) [?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) [?:?]
+	at java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) [?:?]
+	at java.util.stream.AbstractTask.compute(AbstractTask.java:327) [?:?]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[22Apr2025 23:54:53.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has made the advancement [The Vault]
+[22Apr2025 23:54:53.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[22Apr2025 23:55:18.888] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:55:37.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:55:37.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 23:55:43.367] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:56:13.130] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:56:37.684] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:57:01.952] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:57:30.951] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:57:58.171] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:58:21.529] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[22Apr2025 23:58:34.343] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/DEBUG] [mixin/]: Mixing FixRaidAnimation from vaultfaster.mixins.json into iskallia.vault.block.entity.challenge.elite.EliteAnimation
