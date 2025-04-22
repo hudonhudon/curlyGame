@@ -1499,3 +1499,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'architects_palette:mushy_myon
 [22Apr2025 23:09:05.309] [Server thread/INFO] [Waila/]: Syncing config to fuki (23f7ed21-0184-37bd-914f-3d6f1db60cc3)
 [22Apr2025 23:09:06.621] [Server thread/INFO] [simplelogin/]: Player fuki has successfully logged in.
 [22Apr2025 23:13:44.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [Getting an Upgrade]
+[22Apr2025 23:31:01.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lugalnt lost connection: Disconnected
+[22Apr2025 23:31:01.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt left the game
+[22Apr2025 23:31:25.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a76b25a
+[22Apr2025 23:31:25.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lugalnt[/127.203.233.158:54813] logged in with entity id 10488 at (-57.58740771019491, 66.0, 34.33756252034154)
+[22Apr2025 23:31:25.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt joined the game
+[22Apr2025 23:31:25.140] [Server thread/INFO] [Waila/]: Syncing config to lugalnt (0cf79336-1ed5-3910-945c-e2315a018fba)
+[22Apr2025 23:31:25.435] [Server thread/INFO] [simplelogin/]: Player lugalnt has successfully logged in.
+[22Apr2025 23:35:38.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d3301e5[id=<null>,name=Natanael__Cano,properties={},legacy=false] (/127.228.171.242:38823) lost connection: Disconnected
