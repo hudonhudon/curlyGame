@@ -84,3 +84,18 @@
 [23Apr2025 01:26:00.452] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [iskallia.vault.VaultMod/]: false
 [23Apr2025 01:26:00.453] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Ghastly Pirate Guardian
 [23Apr2025 01:26:00.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Elixir Vault.
+[23Apr2025 01:32:52.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38280, l='ServerLevel[world]', x=-562.04, y=134.00, z=355.99] died, message: 'Unemployed hit the ground too hard'
+[23Apr2025 01:39:57.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano completed a Elixir Vault!
+[23Apr2025 01:41:02.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt completed a Elixir Vault!
+[23Apr2025 01:41:03.007] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2
+[23Apr2025 01:41:09.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Archmage Wand transmog.
+[23Apr2025 01:41:10.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
+[23Apr2025 01:41:27.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Wizard Leggings transmog.
+[23Apr2025 01:41:43.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Rusty Knight Leggings transmog.
+[23Apr2025 01:42:03.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Hippopotamus Boots transmog.
+[23Apr2025 01:42:44.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Axe_1 transmog.
+[23Apr2025 01:42:44.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Double Blade transmog.
+[23Apr2025 01:42:44.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Shadow King Leggings transmog.
+[23Apr2025 01:42:45.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [Cover Me with Diamonds]
+[23Apr2025 01:42:45.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Rusty Scavenger Chestplate transmog.
+[23Apr2025 01:42:46.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Rusty Scavenger Boots transmog.

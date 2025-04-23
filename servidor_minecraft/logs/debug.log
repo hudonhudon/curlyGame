@@ -13319,3 +13319,73 @@ java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
 [23Apr2025 01:29:29.562] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [23Apr2025 01:29:36.997] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
 [23Apr2025 01:29:57.607] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:30:23.545] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:30:37.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 01:30:37.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 01:30:50.727] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:31:15.592] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:31:42.445] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:32:08.307] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:32:37.911] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:32:52.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38280, l='ServerLevel[world]', x=-562.04, y=134.00, z=355.99] died, message: 'Unemployed hit the ground too hard'
+[23Apr2025 01:33:07.070] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:33:34.896] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:34:01.189] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:34:25.203] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:34:49.704] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:35:17.647] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:35:37.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 01:35:37.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 01:35:46.376] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:36:09.793] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:36:35.661] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:37:01.886] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:37:25.140] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:37:54.724] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:38:23.422] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:38:47.344] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:39:14.823] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:39:43.835] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:39:57.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano completed a Elixir Vault!
+[23Apr2025 01:40:09.762] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:40:36.054] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:40:37.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 01:40:37.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 01:41:00.346] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:41:02.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt completed a Elixir Vault!
+[23Apr2025 01:41:03.007] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for null
+[23Apr2025 01:41:03.007] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for null
+[23Apr2025 01:41:03.007] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2
+[23Apr2025 01:41:09.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Archmage Wand transmog.
+[23Apr2025 01:41:10.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
+[23Apr2025 01:41:24.089] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:41:27.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Wizard Leggings transmog.
+[23Apr2025 01:41:43.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Rusty Knight Leggings transmog.
+[23Apr2025 01:41:52.853] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:42:03.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Hippopotamus Boots transmog.
+[23Apr2025 01:42:19.454] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:42:44.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Axe_1 transmog.
+[23Apr2025 01:42:44.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Double Blade transmog.
+[23Apr2025 01:42:44.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Shadow King Leggings transmog.
+[23Apr2025 01:42:45.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [Cover Me with Diamonds]
+[23Apr2025 01:42:45.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Rusty Scavenger Chestplate transmog.
+[23Apr2025 01:42:46.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Rusty Scavenger Boots transmog.
+[23Apr2025 01:42:49.378] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:43:15.571] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:43:44.901] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:44:10.735] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:44:38.012] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:45:05.442] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:45:33.952] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:45:37.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 01:45:37.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 01:46:03.585] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:46:27.909] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:46:51.257] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:47:20.431] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:47:44.818] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:48:08.652] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:48:34.409] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:48:59.646] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:49:27.785] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 01:49:55.114] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
