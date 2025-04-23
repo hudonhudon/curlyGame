@@ -298,3 +298,5 @@
 [23Apr2025 04:00:07.327] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
 [23Apr2025 04:00:07.328] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/curlyGame/servidor_minecraft/backups/2025-4-23_4-0-0.zip size: 85.8MB Took: 0m, 7s, 186ms Sha1: f880c93e73c2f8bfec406bd53fdad2850d26cc85
 [23Apr2025 04:02:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
+[23Apr2025 04:07:03.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace Brazier Vault!
+[23Apr2025 04:07:04.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace Brazier Vault!
