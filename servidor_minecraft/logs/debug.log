@@ -13187,3 +13187,34 @@ java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
 [23Apr2025 00:49:07.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Mystical Lexicon transmog.
 [23Apr2025 00:49:09.753] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [23Apr2025 00:49:33.086] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:49:58.683] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:50:22.163] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:50:37.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 00:50:37.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 00:50:45.196] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:51:12.653] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:51:36.896] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:52:03.841] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:52:27.467] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:52:53.118] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:53:21.286] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:53:46.602] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:53:53.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Skeleton
+[23Apr2025 00:54:14.704] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:54:31.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Druid Chestplate transmog.
+[23Apr2025 00:54:42.318] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:55:06.543] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:55:35.571] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:55:37.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 00:55:37.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 00:56:01.192] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:56:07.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Skeleton
+[23Apr2025 00:56:25.719] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:56:49.173] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:57:14.393] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:57:43.897] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:58:09.739] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:58:27.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/23854, l='ServerLevel[world]', x=-651.30, y=71.05, z=445.53] died, message: 'Armorer drowned'
+[23Apr2025 00:58:38.174] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:59:03.863] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:59:32.910] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers

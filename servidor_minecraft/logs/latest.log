@@ -70,3 +70,7 @@
 [23Apr2025 00:48:55.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Rusty Knight Boots transmog.
 [23Apr2025 00:49:04.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
 [23Apr2025 00:49:07.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Mystical Lexicon transmog.
+[23Apr2025 00:53:53.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Skeleton
+[23Apr2025 00:54:31.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Druid Chestplate transmog.
+[23Apr2025 00:56:07.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Skeleton
+[23Apr2025 00:58:27.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/23854, l='ServerLevel[world]', x=-651.30, y=71.05, z=445.53] died, message: 'Armorer drowned'
