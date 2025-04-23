@@ -2,20 +2,20 @@
   "version": 1,
   "playerUUID": "23f7ed21-0184-37bd-914f-3d6f1db60cc3",
   "playerNickname": "fuki",
-  "timestamp": 1745371270,
+  "timestamp": 1745373050,
   "completed": 0,
   "survived": 0,
-  "failed": 2,
+  "failed": 3,
   "vaultLevel": 0,
   "levelPercent": 0.0,
   "vanillaAttributes": {
     "minecraft:generic.max_health": 20.0,
-    "minecraft:generic.knockback_resistance": 0.0,
-    "minecraft:generic.movement_speed": 0.13000000312924387,
+    "minecraft:generic.knockback_resistance": 0.09999999403953552,
+    "minecraft:generic.movement_speed": 0.10000000149011612,
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -44,7 +44,7 @@
     "the_vault:generic.mana_shield": 0.0
   },
   "gearAttributes": {
-    "the_vault:ability_power": 0.0,
+    "the_vault:ability_power": 2.5,
     "the_vault:healing_effectiveness": 0.0,
     "the_vault:cooldown_reduction": 0.0,
     "the_vault:resistance": 0.5,
@@ -72,7 +72,7 @@
   },
   "summaryAttributes": {
     "dps": 4.0,
-    "defense": 0.08653849913523715
+    "defense": 0.10588236083002656
   },
   "reputation": {
     "Velara": 0,
@@ -85,31 +85,31 @@
       "itemKey": "minecraft:shield",
       "count": 1,
       "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"7eff49a0-492d-40d7-b043-037763e72b77\",\"attributes\":[]}"
+      "gearData": "{\"id\":\"35503dc7-9b49-4572-bfff-a005ff5a39fe\",\"attributes\":[]}"
     },
     "FEET": {
       "itemKey": "minecraft:iron_boots",
       "count": 1,
-      "nbt": "{Damage:86}",
-      "gearData": "{\"id\":\"4c02e584-1ddf-435b-af61-2d2d2af01f18\",\"attributes\":[]}"
+      "nbt": "{Damage:87}",
+      "gearData": "{\"id\":\"e67847d0-0569-4053-bdae-b37710523c33\",\"attributes\":[]}"
     },
     "LEGS": {
-      "itemKey": "minecraft:iron_leggings",
+      "itemKey": "the_vault:leggings",
       "count": 1,
-      "nbt": "{Damage:69}",
-      "gearData": "{\"id\":\"fedc9b48-6c58-4850-871b-ba155bac414c\",\"attributes\":[]}"
+      "nbt": "{clientCache:{color:[B;],colors:[I;11184810],gearName:[B;],jcolors:[I;16756751,14668030],model:\"the_vault:gear/armor/rusty_knight/leggings\",rarity:0,rollType:\"Scrappy+\",state:2},vaultGearData:[L;190667596524486142L,7245722634053704982L,2398465868737546410L,344970961818574853L,-1729382256821940432L,-3845640312894353244L,-6915813264439637853L,-3516077761619777486L,-2244236519103216950L,-4125617359045473576L,-2531345427552746780L,-6617705400886099746L,155640992167406592L,3029981373812084745L,-945508794081302768L,-6617714196979122090L,155640992167406592L,-6617665403430737911L,155640992167406592L,-7302216733234557687L,-7770889806408053592L,10507388161577L,3029444849659281408L,3470311597830515334L,-8715976111013903192L,113640010L,774630416966483968L,-4276114893416266198L,165092816088203321L,1734L,-8779192703683227072L,187088578661654826L,2594073385365405696L,8261961958631187497L,45675922525354L,4797037290591363072L,5370870786335358986L,30518767528477706L,0L,-6301469999042019328L,3354387381817716302L,888358666343097967L,370777312540559957L,27181498946L,103079215104L,4833775685013162288L,4916052561767945109L,-9223372036854775808L,4231036960022503750L,1484132027496640822L,299863420974792786L,-1923308872331951789L,16L,1559107488186496L,108649341010313216L,6197043335513767936L,946826056224223568L,0L,-7652313913031131136L,-3909769026501231307L,-6806484194348194651L,5159594790397419850L,2L,184828694903128076L,-7473652342583557456L,2545068367989380L,525312L,5525472713254109184L,-8219656397173961240L,888358666343097453L,1127000840407637L,1736137656351326208L,6918973003699060736L,-8427093021886835451L,5850830216104709136L,17395153548620673L,-7638104968020361216L,7738151104254603085L,7598528400967557474L,2973894606676128883L,8769256565999665316L,7026197479619125256L,-8759454931290512383L,2L,4797037290591367216L,5370870786335358986L,21757858878358538L,0L,5667934672184778752L,3399809995492838446L,6128365644264277286L,650792776606224182L,1659027L,2097152L]}",
+      "gearData": "{\"id\":\"602a5632-b390-4fdf-a648-dfa589fc75d1\",\"attributes\":[{\"name\":\"the_vault:is_loot\",\"value\":true,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type_pool\",\"value\":\"gear_completion_crate_mono\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type\",\"value\":\"Scrappy+\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_model\",\"value\":\"the_vault:gear/armor/rusty_knight/leggings\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:max_crafting_potential\",\"value\":54,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:crafting_potential\",\"value\":54,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:prefixes\",\"value\":1,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:suffixes\",\"value\":1,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:durability\",\"value\":867,\"display\":{\"color\":14668030,\"elements\":[\"\",\"867\",\" Durability\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:soulbound\",\"value\":true,\"display\":{\"color\":9856253,\"elements\":[\"\",\"Soulbound\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"level\":0,\"rarity\":\"SCRAPPY\",\"state\":\"IDENTIFIED\",\"maxRepairs\":5,\"usedRepairs\":0,\"implicits\":[{\"name\":\"the_vault:armor\",\"value\":3,\"display\":{\"color\":4766456,\"elements\":[\"\",\"3\",\" Armor\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:ability_power\",\"value\":2.5,\"display\":{\"color\":16711883,\"elements\":[\"\",\"2.5\",\" Ability Power\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"prefixes\":[{\"name\":\"the_vault:knockback_resistance\",\"value\":0.099999994,\"display\":{\"color\":16756751,\"elements\":[\"+\",\"10%\",\" Knockback Resist\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"suffixes\":[{\"name\":\"the_vault:durability\",\"value\":618,\"display\":{\"color\":14668030,\"elements\":[\"+\",\"618\",\" Durability\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}]}"
     },
     "CHEST": {
-      "itemKey": "minecraft:iron_chestplate",
+      "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Damage:86}",
-      "gearData": "{\"id\":\"c0ec5b34-0619-447f-b9ee-74abf6cc93f5\",\"attributes\":[]}"
+      "nbt": "{Damage:14}",
+      "gearData": "{\"id\":\"d509babd-f68d-40e7-96ef-a581762117c3\",\"attributes\":[]}"
     },
     "HEAD": {
       "itemKey": "minecraft:iron_helmet",
       "count": 1,
-      "nbt": "{Damage:69}",
-      "gearData": "{\"id\":\"3b489c54-1136-4a53-a459-6c067d7395c9\",\"attributes\":[]}"
+      "nbt": "{Damage:70}",
+      "gearData": "{\"id\":\"8191b13b-379f-4c80-a41c-c2e49b3ae7ad\",\"attributes\":[]}"
     }
   },
   "abilities": {
