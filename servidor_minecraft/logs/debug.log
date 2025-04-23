@@ -13024,3 +13024,51 @@ java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
 [23Apr2025 00:07:58.949] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [23Apr2025 00:08:22.689] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [23Apr2025 00:08:49.399] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:09:15.955] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:09:45.082] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:10:09.420] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:10:37.013] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:10:37.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 00:10:37.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 00:11:01.637] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:11:10.564] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:11:10.565] [Server thread/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 00:11:10.565] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:11:10.565] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:11:10.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki hit the ground too hard
+[23Apr2025 00:11:10.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Elixir Vault.
+[23Apr2025 00:11:27.373] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:11:53.112] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:12:20.520] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:12:48.444] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:13:11.589] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:13:37.195] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:14:05.545] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:14:30.329] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:14:53.551] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:15:19.896] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:15:37.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 00:15:37.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 00:15:44.640] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:16:08.309] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:16:33.954] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:17:02.263] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:17:26.767] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:17:50.577] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:18:02.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt survived a Elixir Vault.
+[23Apr2025 00:18:18.635] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:18:36.650] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/DEBUG] [mixin/]: Mixing MixinCrossbowAttack from assets/the_vault/the_vault.mixins.json into net.minecraft.world.entity.ai.behavior.CrossbowAttack
+[23Apr2025 00:18:36.651] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/DEBUG] [mixin/]: Renaming synthetic method lambda$checkExtraStartConditions$0(Lnet/minecraft/world/item/ItemStack;)Z to md378b52$lambda$checkExtraStartConditions$0$0 in assets/the_vault/the_vault.mixins.json:MixinCrossbowAttack
+[23Apr2025 00:18:48.362] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 00:18:56.303] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:18:56.304] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 00:18:56.304] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:18:56.304] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:18:56.305] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano was shot by Magmatic Guardian
+[23Apr2025 00:18:56.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano was defeated in a Elixir Vault.
+[23Apr2025 00:18:56.337] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[23Apr2025 00:18:56.337] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$378b52$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[23Apr2025 00:18:56.337] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$378b52$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[23Apr2025 00:18:56.346] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for null
+[23Apr2025 00:18:56.346] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for null
+[23Apr2025 00:18:56.347] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b

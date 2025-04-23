@@ -33,3 +33,17 @@
 [23Apr2025 00:00:04.747] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
 [23Apr2025 00:00:04.747] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/curlyGame/servidor_minecraft/backups/2025-4-23_0-0-0.zip size: 58.9MB Took: 0m, 4s, 591ms Sha1: a89300b9f491420befec68cd523a3ea26f103c75
 [23Apr2025 00:04:01.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has made the advancement [Monster Hunter]
+[23Apr2025 00:11:10.564] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:11:10.565] [Server thread/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 00:11:10.565] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:11:10.565] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:11:10.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki hit the ground too hard
+[23Apr2025 00:11:10.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Elixir Vault.
+[23Apr2025 00:18:02.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt survived a Elixir Vault.
+[23Apr2025 00:18:56.303] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:18:56.304] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 00:18:56.304] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:18:56.304] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:18:56.305] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano was shot by Magmatic Guardian
+[23Apr2025 00:18:56.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano was defeated in a Elixir Vault.
+[23Apr2025 00:18:56.347] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b
