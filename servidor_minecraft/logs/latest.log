@@ -53,3 +53,10 @@
 [23Apr2025 00:23:39.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
 [23Apr2025 00:23:40.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
 [23Apr2025 00:23:44.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 00:32:46.104] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:32:46.105] [Server thread/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 00:32:46.105] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:32:46.106] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 00:32:46.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki went up in flames
+[23Apr2025 00:32:46.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Elixir Vault.
+[23Apr2025 00:34:44.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has made the advancement [Sticky Situation]
