@@ -219,3 +219,27 @@
 [23Apr2025 02:46:46.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano fell from a high place
 [23Apr2025 02:48:14.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/46558, l='ServerLevel[world]', x=-633.69, y=66.50, z=398.92] died, message: 'Armorer hit the ground too hard'
 [23Apr2025 02:48:45.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano opened a Vault!
+[23Apr2025 02:56:39.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [Ice Bucket Challenge]
+[23Apr2025 02:56:42.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Rusty Scavenger Leggings transmog.
+[23Apr2025 02:57:02.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Rusty Knight Chestplate transmog.
+[23Apr2025 03:01:17.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace Brazier Vault!
+[23Apr2025 03:01:18.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano entered a 1x Beginner's Grace Brazier Vault!
+[23Apr2025 03:01:23.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace Brazier Vault!
+[23Apr2025 03:11:59.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Squire Chestplate transmog.
+[23Apr2025 03:12:16.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Lionguard Chestplate transmog.
+[23Apr2025 03:16:49.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki completed a Brazier Vault!
+[23Apr2025 03:16:50.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt completed a Brazier Vault!
+[23Apr2025 03:16:51.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano completed a Brazier Vault!
+[23Apr2025 03:16:51.375] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_bbe3ebb6-9561-42dc-86f6-dff991d90ec7
+[23Apr2025 03:17:25.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Bard Chestplate transmog.
+[23Apr2025 03:17:43.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Wither Boots transmog.
+[23Apr2025 03:17:59.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Plate Piercer transmog.
+[23Apr2025 03:18:08.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Bard Leggings transmog.
+[23Apr2025 03:18:11.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Frost Wand transmog.
+[23Apr2025 03:18:25.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Axe_7 transmog.
+[23Apr2025 03:18:25.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Plate Piercer transmog.
+[23Apr2025 03:18:33.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Tattered Tome transmog.
+[23Apr2025 03:18:41.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Druid Boots transmog.
+[23Apr2025 03:18:44.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Mage Wand transmog.
+[23Apr2025 03:20:36.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Natanael__Cano lost connection: Disconnected
+[23Apr2025 03:20:36.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano left the game

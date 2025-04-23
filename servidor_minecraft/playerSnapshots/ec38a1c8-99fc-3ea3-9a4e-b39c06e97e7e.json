@@ -2,19 +2,19 @@
   "version": 1,
   "playerUUID": "ec38a1c8-99fc-3ea3-9a4e-b39c06e97e7e",
   "playerNickname": "Natanael__Cano",
-  "timestamp": 1745374228,
+  "timestamp": 1745377278,
   "completed": 3,
   "survived": 0,
-  "failed": 1,
+  "failed": 2,
   "vaultLevel": 10,
   "levelPercent": 0.6119286,
   "vanillaAttributes": {
     "minecraft:generic.max_health": 23.0,
     "minecraft:generic.knockback_resistance": 0.23000000417232513,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 11.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.0,
+    "minecraft:generic.attack_speed": 1.7172,
     "minecraft:generic.armor": 20.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -61,7 +61,7 @@
     "the_vault:trap_disarming": 0.0,
     "the_vault:copiously": 0.0,
     "the_vault:mining_speed": 0.0,
-    "the_vault:soul_chance": 0.0,
+    "the_vault:soul_chance": 0.19999999,
     "the_vault:lucky_hit_chance": 0.0,
     "the_vault:damage_increase": 0.07,
     "the_vault:damage_illagers": 0.0,
@@ -71,7 +71,7 @@
     "the_vault:velara_affinity": 0.0
   },
   "summaryAttributes": {
-    "dps": 4.28000020980835,
+    "dps": 20.21144499077797,
     "defense": 0.19999998807907104
   },
   "reputation": {
@@ -82,14 +82,15 @@
   },
   "equipment": {
     "MAINHAND": {
-      "itemKey": "the_vault:mystery_egg",
+      "itemKey": "the_vault:sword",
       "count": 1,
-      "gearData": "{\"id\":\"aacccce2-770f-4859-b583-dcf6c2124d11\",\"attributes\":[]}"
+      "nbt": "{Damage:154,clientCache:{color:[B;],colors:[I;16777045],gearName:[B;],jcolors:[I;13513996,4718847,15007916,16767592],model:\"the_vault:gear/sword/plate_piercer\",rarity:2,rollType:\"Rare+\",state:2},vaultGearData:[L;-4375704344606794962L,-7469876926209323061L,2398465868737546392L,344970961818574853L,-1729382256821940432L,-3845640312894353244L,-6915813264439637853L,-3522270211107411918L,-2244236519103216950L,242849579322072L,-6869114626581200896L,2202270122665748578L,-4421116283477032570L,2882303761522805476L,-961410078223588311L,4927116243821462056L,-961410078223588311L,5774256487526892072L,1892235871947065736L,4797459503056423178L,43675377109483530L,16260300314052099L,1541922441537429992L,-7818248953115181056L,516372622414449218L,-6780168990893789143L,23527869286154L,739314092417744896L,3506370251407887040L,77114386L,-6052657402581352448L,-4529762873996975456L,35184372107658L,3029444849659183104L,5297504241429588614L,14781608L,2905314340863213568L,3191977151268957804L,1478630311625305485L,6107173930086438272L,6063184587157488640L,6L,99643241267224L,6790583813144576L,387315208476950528L,199008602471875349L,8116567391675174988L,3221424701L,8313999569050402816L,6011007397872812389L,46207214064854384L,190849185315201196L,-8466098701492148216L,130L,-8024086325927867392L,-6737162247383896062L,184095219849978242L,577727389698621440L,0L,3354768497923860562L,-5986359587244250004L,888358666343098156L,379710844516239957L,1438243905077955L,6962565023914786816L,-9217596142286536704L,2023032204611572757L,-2813128456445542395L,3L,1645525005921343696L,-7838877002076105098L,-7265847533681767870L,-6916809905688543097L,91906L,-6582010855401193472L,-1600289101306658160L,-7482617521508443991L,8165785L,-6428643710333878272L,-4117201758452127010L,-4233005412219984182L,888604132254115152L,86763446320L,424961244135424L,5788814723564044288L,-4589113843164556239L,3933600740892032192L,126281463L,-7376891747244963840L,-1616095103642261095L,6597069797489L,0L,-8008351451806228480L,-3249115371348498222L,4708514820547861726L,2662753352485785797L,1219302611018707L,27021597764222976L,1549260833941356544L,796034409887501396L,946125358749794608L,-2213609288844885115L,65210L,-3385139303054835712L,-7655585752586287663L,-6806484194348194539L,7026357041440614090L,-6617476667425675775L,2650273L,4194304L]}",
+      "gearData": "{\"id\":\"bc346601-5019-41b2-8985-5aa8341680fc\",\"attributes\":[{\"name\":\"the_vault:is_loot\",\"value\":true,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type_pool\",\"value\":\"gear_completion\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type\",\"value\":\"Rare+\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_model\",\"value\":\"the_vault:gear/sword/plate_piercer\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:max_crafting_potential\",\"value\":171,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:crafting_potential\",\"value\":171,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:prefixes\",\"value\":2,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:suffixes\",\"value\":2,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:durability\",\"value\":1804,\"display\":{\"color\":14668030,\"elements\":[\"\",\"1804\",\" Durability\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"level\":1,\"rarity\":\"RARE\",\"state\":\"IDENTIFIED\",\"maxRepairs\":5,\"usedRepairs\":0,\"implicits\":[{\"name\":\"the_vault:attack_speed\",\"value\":-2.38,\"display\":{\"color\":16767592,\"elements\":[\"\",\"1.62\",\" Attack Speed\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:attack_damage\",\"value\":10.0,\"display\":{\"color\":13116966,\"elements\":[\"\",\"10\",\" Attack Damage\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"prefixes\":[{\"name\":\"the_vault:damage_tank\",\"value\":0.07,\"display\":{\"color\":13513996,\"elements\":[\"+\",\"7%\",\" Tank Damage\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:soul_chance\",\"value\":0.19999999,\"display\":{\"color\":4718847,\"elements\":[\"+\",\"20%\",\" Soul Quantity\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"suffixes\":[{\"name\":\"the_vault:effect_cloud\",\"value\":{\"effectCloud\":{\"tooltip\":\"Poison\",\"additionalEffects\":[{\"effect\":\"minecraft:poison\",\"duration\":60,\"amplifier\":3}],\"duration\":120,\"radius\":4.0,\"color\":4236591,\"affectsOwner\":false,\"triggerChance\":0.05}},\"display\":{\"color\":15007916,\"elements\":[\"+\",\"Poison Cloud\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:attack_speed_percent\",\"value\":0.060000000000000005,\"display\":{\"color\":16767592,\"elements\":[\"+\",\"6%\",\" Attack Speed\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}]}"
     },
     "OFFHAND": {
       "itemKey": "the_vault:wand",
       "count": 1,
-      "nbt": "{Damage:28,clientCache:{color:[B;],colors:[I;16777045],gearName:[B;],jcolors:[I;15638784,63668,9371426],model:\"the_vault:gear/wand/lunar\",rarity:2,rollType:\"Scrappy+\",state:2},vaultGearData:[L;-5927531508637837842L,8901348074441922973L,2398465868737546392L,344970961818574853L,-1729382256821940432L,-3845640312894353244L,-6915813264439637853L,-3516077761619777486L,-2244236519103216950L,-4125617359045473576L,-2531345427552746780L,-6617705400886099746L,155640992167406592L,3029981373812084745L,-945508794081302768L,-6617714196979122090L,155640992167406592L,-6617702786826082295L,155640992167406592L,705544794058964233L,2957264066252374052L,865373556222470912L,-6917274960448674792L,25077700567509639L,742530988562710528L,-6621230329264144343L,3064593997186113728L,382655343132L,11551782694027264L,5242933805909059627L,680624L,-9029714432618397696L,3099756592762626442L,549755814182L,1776717332686195200L,-6834755523868744534L,56242L,-5719211986458247168L,3796869532960830137L,23103598619145398L,95424592657600598L,1824119516084606224L,6917529027641081856L,1556925644800L,105827994173440L,6058889699318415360L,456029879021229324L,4679240014051528512L,0L,8524276436493618568L,7106869330744779628L,9016006723261096L,-4557642822898941952L,11551806316347392L,2351450805927192619L,-6484960792574148480L,-5868984529325782352L,49127650511852L,0L,-8500495308639109120L,1549260833982090953L,289357440906234964L,7296478064337227857L,4777558355568251648L,21L,1485061977125520000L,4339592286726127698L,5838151672215126799L,4435865490102047757L,0L,7813586213749607828L,8458997404823678820L,-6617686234872843165L,610715660764359680L,-8068429112229857184L,125226886799882L,844424930131968L,-6869114626580283392L,1040654779620173922L,8118603233322872992L,540607877638538L,7802486354419384320L,4873848121349841786L,4833775685013162507L,-8561323890691551851L,4058380037748228211L,1603L,2048L]}",
+      "nbt": "{Damage:69,clientCache:{color:[B;],colors:[I;16777045],gearName:[B;],jcolors:[I;15638784,63668,9371426],model:\"the_vault:gear/wand/lunar\",rarity:2,rollType:\"Scrappy+\",state:2},vaultGearData:[L;-5927531508637837842L,8901348074441922973L,2398465868737546392L,344970961818574853L,-1729382256821940432L,-3845640312894353244L,-6915813264439637853L,-3516077761619777486L,-2244236519103216950L,-4125617359045473576L,-2531345427552746780L,-6617705400886099746L,155640992167406592L,3029981373812084745L,-945508794081302768L,-6617714196979122090L,155640992167406592L,-6617702786826082295L,155640992167406592L,705544794058964233L,2957264066252374052L,865373556222470912L,-6917274960448674792L,25077700567509639L,742530988562710528L,-6621230329264144343L,3064593997186113728L,382655343132L,11551782694027264L,5242933805909059627L,680624L,-9029714432618397696L,3099756592762626442L,549755814182L,1776717332686195200L,-6834755523868744534L,56242L,-5719211986458247168L,3796869532960830137L,23103598619145398L,95424592657600598L,1824119516084606224L,6917529027641081856L,1556925644800L,105827994173440L,6058889699318415360L,456029879021229324L,4679240014051528512L,0L,8524276436493618568L,7106869330744779628L,9016006723261096L,-4557642822898941952L,11551806316347392L,2351450805927192619L,-6484960792574148480L,-5868984529325782352L,49127650511852L,0L,-8500495308639109120L,1549260833982090953L,289357440906234964L,7296478064337227857L,4777558355568251648L,21L,1485061977125520000L,4339592286726127698L,5838151672215126799L,4435865490102047757L,0L,7813586213749607828L,8458997404823678820L,-6617686234872843165L,610715660764359680L,-8068429112229857184L,125226886799882L,844424930131968L,-6869114626580283392L,1040654779620173922L,8118603233322872992L,540607877638538L,7802486354419384320L,4873848121349841786L,4833775685013162507L,-8561323890691551851L,4058380037748228211L,1603L,2048L]}",
       "gearData": "{\"id\":\"dadbd2d7-f90b-4d5e-87b8-7f0e98f37d99\",\"attributes\":[{\"name\":\"the_vault:is_loot\",\"value\":true,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type_pool\",\"value\":\"gear_completion_crate_mono\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type\",\"value\":\"Scrappy+\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_model\",\"value\":\"the_vault:gear/wand/lunar\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:max_crafting_potential\",\"value\":178,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:crafting_potential\",\"value\":178,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:prefixes\",\"value\":1,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:suffixes\",\"value\":2,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:durability\",\"value\":439,\"display\":{\"color\":14668030,\"elements\":[\"\",\"439\",\" Durability\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"level\":1,\"rarity\":\"RARE\",\"state\":\"IDENTIFIED\",\"maxRepairs\":5,\"usedRepairs\":0,\"implicits\":[{\"name\":\"the_vault:ability_power\",\"value\":7.5,\"display\":{\"color\":16711883,\"elements\":[\"\",\"7.5\",\" Ability Power\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"prefixes\":[{\"name\":\"the_vault:added_ability_level\",\"value\":{\"ability\":\"Smite_Base\",\"levelChange\":1},\"display\":{\"color\":15638784,\"elements\":[\"+\",\"1\",\" to level of \",\"Smite\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"suffixes\":[{\"name\":\"the_vault:cooldown_reduction\",\"value\":0.07,\"display\":{\"color\":63668,\"elements\":[\"+\",\"7%\",\" Cooldown Reduction\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:healing_effectiveness\",\"value\":0.060000002,\"display\":{\"color\":9371426,\"elements\":[\"+\",\"6%\",\" Healing Efficiency\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}]}"
     },
     "FEET": {
@@ -119,10 +120,11 @@
   },
   "abilities": {
     "Heal_Base": 1,
-    "Mega_Jump_Base": 1,
+    "Mega_Jump_Base": 2,
     "Mana_Shield_Base": 1,
     "Stonefall_Base": 3,
     "Fireball_Base": 1,
+    "Storm_Arrow_Base": 1,
     "Ice_Bolt_Base": 1
   },
   "talents": {},
