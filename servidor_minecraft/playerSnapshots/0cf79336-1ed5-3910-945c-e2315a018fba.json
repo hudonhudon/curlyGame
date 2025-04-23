@@ -2,16 +2,16 @@
   "version": 1,
   "playerUUID": "0cf79336-1ed5-3910-945c-e2315a018fba",
   "playerNickname": "lugalnt",
-  "timestamp": 1745366090,
+  "timestamp": 1745367820,
   "completed": 0,
-  "survived": 0,
+  "survived": 1,
   "failed": 0,
-  "vaultLevel": 0,
-  "levelPercent": 0.0,
+  "vaultLevel": 1,
+  "levelPercent": 0.4845,
   "vanillaAttributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
-    "minecraft:generic.movement_speed": 0.13000000312924387,
+    "minecraft:generic.movement_speed": 0.10000000149011612,
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.0,
@@ -85,34 +85,36 @@
       "itemKey": "minecraft:shield",
       "count": 1,
       "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"61b8fd78-56bf-4e18-b255-fbb158607730\",\"attributes\":[]}"
+      "gearData": "{\"id\":\"57dbef09-fe98-4aef-ac0e-6ccdc82a4689\",\"attributes\":[]}"
     },
     "FEET": {
       "itemKey": "minecraft:iron_boots",
       "count": 1,
-      "nbt": "{Damage:44}",
-      "gearData": "{\"id\":\"1ea97560-e7df-4be9-8fbf-891fa5ea7493\",\"attributes\":[]}"
+      "nbt": "{Damage:60}",
+      "gearData": "{\"id\":\"3a9fc86d-c7b1-4267-a395-05c708cee7ec\",\"attributes\":[]}"
     },
     "LEGS": {
       "itemKey": "minecraft:iron_leggings",
       "count": 1,
-      "nbt": "{Damage:32}",
-      "gearData": "{\"id\":\"1c7b7deb-a03e-4d4c-a594-75e3bfef1206\",\"attributes\":[]}"
+      "nbt": "{Damage:48}",
+      "gearData": "{\"id\":\"793ece24-9299-41d9-bf23-1d5c3ff1729f\",\"attributes\":[]}"
     },
     "CHEST": {
       "itemKey": "minecraft:iron_chestplate",
       "count": 1,
-      "nbt": "{Damage:44}",
-      "gearData": "{\"id\":\"782a0d7a-bdce-4123-905f-2ab51c38957f\",\"attributes\":[]}"
+      "nbt": "{Damage:60}",
+      "gearData": "{\"id\":\"d9d0baf1-1b4b-4c26-9659-be4e2f5ec1b1\",\"attributes\":[]}"
     },
     "HEAD": {
       "itemKey": "minecraft:iron_helmet",
       "count": 1,
-      "nbt": "{Damage:32}",
-      "gearData": "{\"id\":\"1a8eb487-3c1d-4f75-8818-2b66d080242a\",\"attributes\":[]}"
+      "nbt": "{Damage:48}",
+      "gearData": "{\"id\":\"0163faf3-f618-45f2-87ef-901974e42204\",\"attributes\":[]}"
     }
   },
-  "abilities": {},
+  "abilities": {
+    "Heal_Base": 1
+  },
   "talents": {},
   "expertises": {},
   "researches": [],

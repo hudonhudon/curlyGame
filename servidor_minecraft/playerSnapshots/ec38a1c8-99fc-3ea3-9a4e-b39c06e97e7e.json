@@ -2,20 +2,20 @@
   "version": 1,
   "playerUUID": "ec38a1c8-99fc-3ea3-9a4e-b39c06e97e7e",
   "playerNickname": "Natanael__Cano",
-  "timestamp": 1745366093,
+  "timestamp": 1745367819,
   "completed": 0,
   "survived": 0,
-  "failed": 0,
+  "failed": 1,
   "vaultLevel": 0,
   "levelPercent": 0.0,
   "vanillaAttributes": {
-    "minecraft:generic.max_health": 20.0,
-    "minecraft:generic.knockback_resistance": 0.0,
-    "minecraft:generic.movement_speed": 0.13000000312924387,
-    "minecraft:generic.attack_damage": 5.0,
+    "minecraft:generic.max_health": 23.0,
+    "minecraft:generic.knockback_resistance": 0.09000000357627869,
+    "minecraft:generic.movement_speed": 0.10000000149011612,
+    "minecraft:generic.attack_damage": 4.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.5999999046325684,
-    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.attack_speed": 1.2000000476837158,
+    "minecraft:generic.armor": 9.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -44,7 +44,7 @@
     "the_vault:generic.mana_shield": 0.0
   },
   "gearAttributes": {
-    "the_vault:ability_power": 0.0,
+    "the_vault:ability_power": 4.5,
     "the_vault:healing_effectiveness": 0.0,
     "the_vault:cooldown_reduction": 0.0,
     "the_vault:resistance": 0.5,
@@ -71,8 +71,8 @@
     "the_vault:velara_affinity": 0.0
   },
   "summaryAttributes": {
-    "dps": 7.999999523162842,
-    "defense": 0.08653849913523715
+    "dps": 4.800000190734863,
+    "defense": 0.09577631892936722
   },
   "reputation": {
     "Velara": 0,
@@ -82,40 +82,40 @@
   },
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:stone_sword",
+      "itemKey": "minecraft:iron_pickaxe",
       "count": 1,
-      "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"7a16ac43-cd2d-4026-91eb-3d369f7fa085\",\"attributes\":[]}"
+      "nbt": "{Damage:42}",
+      "gearData": "{\"id\":\"5c593f4f-90bf-4cc7-a817-d189daf17a1a\",\"attributes\":[]}"
     },
     "OFFHAND": {
       "itemKey": "minecraft:shield",
       "count": 1,
       "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"e6fe9217-211d-4399-9acb-b78ac5e5c1f0\",\"attributes\":[]}"
+      "gearData": "{\"id\":\"2cd754bf-6bd1-4824-9bdc-9018dec4b80f\",\"attributes\":[]}"
     },
     "FEET": {
       "itemKey": "minecraft:iron_boots",
       "count": 1,
-      "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"790b6c43-a086-469c-8662-e541bb843898\",\"attributes\":[]}"
+      "nbt": "{Damage:17}",
+      "gearData": "{\"id\":\"4042da24-09c4-4271-976f-fb0ce24635f7\",\"attributes\":[]}"
     },
     "LEGS": {
       "itemKey": "minecraft:iron_leggings",
       "count": 1,
-      "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"ce9290e0-e957-42ed-94e7-e0edc392750e\",\"attributes\":[]}"
+      "nbt": "{Damage:17}",
+      "gearData": "{\"id\":\"62f4b2db-2a15-40bc-a0fb-c8e671a09dc3\",\"attributes\":[]}"
     },
     "CHEST": {
       "itemKey": "minecraft:iron_chestplate",
       "count": 1,
-      "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"6d6e8918-e7d9-47b7-8227-97b40dda6f2e\",\"attributes\":[]}"
+      "nbt": "{Damage:17}",
+      "gearData": "{\"id\":\"277a5b93-cee7-4bc7-a416-b0e0e10a3b90\",\"attributes\":[]}"
     },
     "HEAD": {
-      "itemKey": "minecraft:iron_helmet",
+      "itemKey": "the_vault:helmet",
       "count": 1,
-      "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"7340d274-553f-4118-bf8d-6412f2915d83\",\"attributes\":[]}"
+      "nbt": "{clientCache:{color:[B;],colors:[I;5636095],gearName:[B;],jcolors:[I;16756751,2293541,14668030],model:\"the_vault:gear/armor/spiky_platemail_dark/helmet\",rarity:1,rollType:\"Scrappy+\",state:2},vaultGearData:[L;-2395790358948347554L,7550130873694138656L,2398465868737546394L,344970961818574853L,-1729382256821940432L,-3845640312894353244L,-6915813264439637853L,-2373852306127935438L,106424604744932L,-6869114626581200896L,2202270122665748578L,-4132316360302132858L,95601154900708L,-6869114626581725184L,2191011123597322338L,-6869114626578030430L,-6625629571910555550L,-9219829092397837850L,2450064989942874264L,45219168728127120L,-6052657402111590400L,-8043376116273487200L,-6188368084965096702L,431109744752L,46207216675454976L,-9006477482661863252L,-6309356029972603830L,6578212L,-6869114626581987328L,-8448432897662998430L,73L,-8779192703683227072L,187088578663851818L,2882303761550671872L,-7878939105864670167L,-231226641274067800L,4L,-3826156956448456704L,-3253618988249978232L,4708514820547605224L,6070858121950351557L,111335419682898L,140737488355328L,77201408L,6476005376L,6066718503347557519L,56435230745L,0L,-7945135250097239504L,-8024106350177564411L,-7484619048039043070L,2506559070218L,13194139533312L,-8466010824439973888L,57003734877653665L,581527302035913192L,-6917529027641081856L,-5922822518880851887L,-8852830511154196882L,-4536720163183689708L,67174484L,103750303744L,4833775685013162464L,796029423541521301L,1455649290307441952L,1035489772L,7237088432848109568L,7161113095865069131L,7022364615722226283L,-6052657402021059730L,8169539042831524512L,7107807630203117982L,2776430683722L,52776558133248L,3029444849659150336L,1170293268753030L,526336L,-6265476946732253184L,3300058450205969452L,888358666343097644L,5818726722321725013L,8L,-8852669492526817184L,-7705002501038833644L,56111722964518932L,0L,-7110874729339994112L,6799619990985676892L,-6190012785180997044L,1301585553212448364L,3318054L,4194304L]}",
+      "gearData": "{\"id\":\"0dec0715-caa9-4015-a68c-77406fe3fb12\",\"attributes\":[{\"name\":\"the_vault:is_loot\",\"value\":true,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type_pool\",\"value\":\"ornate0\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_roll_type\",\"value\":\"Scrappy+\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:gear_model\",\"value\":\"the_vault:gear/armor/spiky_platemail_dark/helmet\",\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:max_crafting_potential\",\"value\":50,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:crafting_potential\",\"value\":50,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:prefixes\",\"value\":2,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:suffixes\",\"value\":1,\"display\":{\"color\":0,\"elements\":[]}},{\"name\":\"the_vault:durability\",\"value\":638,\"display\":{\"color\":14668030,\"elements\":[\"\",\"638\",\" Durability\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"level\":0,\"rarity\":\"COMMON\",\"state\":\"IDENTIFIED\",\"maxRepairs\":4,\"usedRepairs\":0,\"implicits\":[{\"name\":\"the_vault:armor\",\"value\":3,\"display\":{\"color\":4766456,\"elements\":[\"\",\"3\",\" Armor\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:ability_power\",\"value\":4.5,\"display\":{\"color\":16711883,\"elements\":[\"\",\"4.5\",\" Ability Power\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"prefixes\":[{\"name\":\"the_vault:knockback_resistance\",\"value\":0.09,\"display\":{\"color\":16756751,\"elements\":[\"+\",\"9%\",\" Knockback Resist\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]},{\"name\":\"the_vault:health\",\"value\":3.0,\"display\":{\"color\":2293541,\"elements\":[\"+\",\"3\",\" Health\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}],\"suffixes\":[{\"name\":\"the_vault:durability\",\"value\":797,\"display\":{\"color\":14668030,\"elements\":[\"+\",\"797\",\" Durability\"]},\"legendary\":false,\"category\":\"NONE\",\"categories\":[]}]}"
     }
   },
   "abilities": {},

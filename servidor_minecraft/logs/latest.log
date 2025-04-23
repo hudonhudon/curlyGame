@@ -47,3 +47,9 @@
 [23Apr2025 00:18:56.305] [the_vault:vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano was shot by Magmatic Guardian
 [23Apr2025 00:18:56.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano was defeated in a Elixir Vault.
 [23Apr2025 00:18:56.347] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_4209b09f-4ce6-422e-a93a-6d5c9a78d57b
+[23Apr2025 00:19:46.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Dark Spiky Platemail Helmet transmog.
+[23Apr2025 00:23:11.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19279, l='ServerLevel[world]', x=-592.31, y=108.00, z=302.76] died, message: 'Unemployed was slain by Zombie'
+[23Apr2025 00:23:37.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
+[23Apr2025 00:23:39.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 00:23:40.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 00:23:44.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!

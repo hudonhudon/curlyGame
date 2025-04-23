@@ -2,10 +2,10 @@
   "version": 1,
   "playerUUID": "23f7ed21-0184-37bd-914f-3d6f1db60cc3",
   "playerNickname": "fuki",
-  "timestamp": 1745366092,
+  "timestamp": 1745367824,
   "completed": 0,
   "survived": 0,
-  "failed": 0,
+  "failed": 1,
   "vaultLevel": 0,
   "levelPercent": 0.0,
   "vanillaAttributes": {
@@ -81,35 +81,40 @@
     "Idona": 0
   },
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "the_vault:quest_book",
+      "count": 1,
+      "gearData": "{\"id\":\"bc0064d7-46d2-46ce-80e0-d248bcf12a9f\",\"attributes\":[]}"
+    },
     "OFFHAND": {
       "itemKey": "minecraft:shield",
       "count": 1,
       "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"a1da2542-da30-4e1a-8899-a72a4eee0025\",\"attributes\":[]}"
+      "gearData": "{\"id\":\"40d6d115-e137-4cc9-ac9d-ff2c457eb940\",\"attributes\":[]}"
     },
     "FEET": {
       "itemKey": "minecraft:iron_boots",
       "count": 1,
-      "nbt": "{Damage:36}",
-      "gearData": "{\"id\":\"957fa275-72d7-4771-b795-75b05417262d\",\"attributes\":[]}"
+      "nbt": "{Damage:53}",
+      "gearData": "{\"id\":\"43535494-cef9-4ebb-ae0d-7344343d7709\",\"attributes\":[]}"
     },
     "LEGS": {
       "itemKey": "minecraft:iron_leggings",
       "count": 1,
-      "nbt": "{Damage:19}",
-      "gearData": "{\"id\":\"87425d36-26de-469c-8e38-800d37ec4e75\",\"attributes\":[]}"
+      "nbt": "{Damage:36}",
+      "gearData": "{\"id\":\"179fb361-8e70-4e59-84bc-32c1cb0945b0\",\"attributes\":[]}"
     },
     "CHEST": {
       "itemKey": "minecraft:iron_chestplate",
       "count": 1,
-      "nbt": "{Damage:36}",
-      "gearData": "{\"id\":\"a1fc1dae-2f55-4952-ae87-988ef7f0a4d3\",\"attributes\":[]}"
+      "nbt": "{Damage:53}",
+      "gearData": "{\"id\":\"3ca51f4c-3c22-4081-8b17-52eacc98a0ff\",\"attributes\":[]}"
     },
     "HEAD": {
       "itemKey": "minecraft:iron_helmet",
       "count": 1,
-      "nbt": "{Damage:19}",
-      "gearData": "{\"id\":\"7a3a0b71-12eb-4305-a00b-48cbce9bac54\",\"attributes\":[]}"
+      "nbt": "{Damage:36}",
+      "gearData": "{\"id\":\"2502b54f-7635-4096-ba94-349a851f8b83\",\"attributes\":[]}"
     }
   },
   "abilities": {},
