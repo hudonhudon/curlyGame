@@ -247,3 +247,16 @@
 [23Apr2025 03:23:59.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
 [23Apr2025 03:25:26.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
 [23Apr2025 03:25:27.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 03:40:35.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt completed a Elixir Vault!
+[23Apr2025 03:40:54.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Monk Chestplate transmog.
+[23Apr2025 03:41:03.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Tattered Tome transmog.
+[23Apr2025 03:41:05.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Magnet transmog.
+[23Apr2025 03:41:28.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki completed a Elixir Vault!
+[23Apr2025 03:41:28.715] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_a45229d6-9436-4402-b6a6-3a3f108ad482
+[23Apr2025 03:42:00.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Rusty Scavenger Helmet transmog.
+[23Apr2025 03:42:53.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Wooden Wand transmog.
+[23Apr2025 03:42:54.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Axe_4 transmog.
+[23Apr2025 03:43:11.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Coconut Shield transmog.
+[23Apr2025 03:43:31.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Sword_1 transmog.
+[23Apr2025 03:43:45.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Dark Minotaur Boots transmog.
+[23Apr2025 03:46:56.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/74156, l='ServerLevel[world]', x=-642.30, y=63.00, z=452.50] died, message: 'Toolsmith was slain by Zombie'
