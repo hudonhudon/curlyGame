@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-23 03:54:52 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-04-22 10:06:35 +0000"
@@ -540,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-23 03:55:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-04-22 10:06:35 +0000"
@@ -666,6 +678,8 @@
       "minecraft:spider": "2025-04-22 10:47:01 +0000",
       "minecraft:creeper": "2025-04-22 10:28:18 +0000",
       "minecraft:slime": "2025-04-22 11:14:58 +0000",
+      "minecraft:phantom": "2025-04-23 03:50:47 +0000",
+      "minecraft:piglin": "2025-04-23 03:55:30 +0000",
       "minecraft:silverfish": "2025-04-22 10:45:24 +0000",
       "minecraft:zombie": "2025-04-22 10:32:39 +0000",
       "minecraft:drowned": "2025-04-22 10:51:53 +0000"
@@ -675,6 +689,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-04-22 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-23 03:54:52 +0000"
     },
     "done": true
   },
@@ -725,6 +745,13 @@
       "has_the_recipe": "2025-04-22 10:06:35 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-23 03:55:17 +0000",
+      "minecraft:soul_sand_valley": "2025-04-23 03:54:52 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {

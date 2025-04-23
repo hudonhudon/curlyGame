@@ -13923,3 +13923,73 @@ java.lang.ClassNotFoundException: kotlin.jvm.internal.FunctionReferenceImpl
 [23Apr2025 03:50:44.898] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [23Apr2025 03:51:13.683] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [23Apr2025 03:51:40.520] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:52:09.002] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:52:32.464] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:52:58.077] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:53:23.905] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:53:48.221] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:54:15.170] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:54:41.343] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:54:50.997] [Worker-Main-215/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--5 absolute]
+[23Apr2025 03:54:51.655] [Worker-Main-215/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--32 absolute]
+[23Apr2025 03:54:51.835] [Worker-Main-69/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--32 absolute]
+[23Apr2025 03:54:52.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [We Need to Go Deeper]
+[23Apr2025 03:55:03.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [Hot Stuff]
+[23Apr2025 03:55:09.720] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:55:13.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [We Need to Go Deeper]
+[23Apr2025 03:55:15.193] [Worker-Main-71/DEBUG] [mixin/]: Mixing MixinPiglinBruteAi from assets/the_vault/the_vault.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[23Apr2025 03:55:32.741] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:55:37.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 03:55:37.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 03:56:00.339] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:56:26.691] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:56:56.570] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:57:20.881] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:57:45.867] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:58:11.432] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:58:36.624] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:59:06.601] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 03:59:32.743] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 1 triggers
+[23Apr2025 04:00:00.001] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.simpl.SimpleJobFactory/]: Producing instance of Job 'DEFAULT.ftbbackups2', class=net.creeperhost.ftbbackups.FTBBackups$BackupJob
+[23Apr2025 04:00:00.001] [ftbbackups2_Worker-1/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.JobRunShell/]: Calling execute on job DEFAULT.ftbbackups2
+[23Apr2025 04:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[23Apr2025 04:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/curlyGame/servidor_minecraft/./world/.
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 0B Current world size: 112.4MB Current Available space: 17.5GB ExpectedSize 82.8MB
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:the_other_side save state to true
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[23Apr2025 04:00:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:vault save state to true
+[23Apr2025 04:00:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:arena save state to true
+[23Apr2025 04:00:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[23Apr2025 04:00:00.054] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
+[23Apr2025 04:00:00.055] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 04:00:00.055] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[23Apr2025 04:00:00.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 04:00:00.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 04:00:00.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 04:00:00.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (arena): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Apr2025 04:00:00.710] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.de.piegames.blockmap.renderer.RegionRenderer/]: Rendering region file -2 0
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:the_other_side save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:vault save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:arena save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[23Apr2025 04:00:07.326] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 85.8MB World Size 112.4MB
+[23Apr2025 04:00:07.327] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
+[23Apr2025 04:00:07.328] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/curlyGame/servidor_minecraft/backups/2025-4-23_4-0-0.zip size: 85.8MB Took: 0m, 7s, 186ms Sha1: f880c93e73c2f8bfec406bd53fdad2850d26cc85
+[23Apr2025 04:00:27.928] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 04:00:37.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 04:00:37.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 04:00:57.514] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 04:01:21.872] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 04:01:47.523] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[23Apr2025 04:02:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!

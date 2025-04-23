@@ -260,3 +260,41 @@
 [23Apr2025 03:43:31.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Sword_1 transmog.
 [23Apr2025 03:43:45.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Dark Minotaur Boots transmog.
 [23Apr2025 03:46:56.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/74156, l='ServerLevel[world]', x=-642.30, y=63.00, z=452.50] died, message: 'Toolsmith was slain by Zombie'
+[23Apr2025 03:54:50.997] [Worker-Main-215/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--5 absolute]
+[23Apr2025 03:54:51.655] [Worker-Main-215/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--32 absolute]
+[23Apr2025 03:54:51.835] [Worker-Main-69/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--32 absolute]
+[23Apr2025 03:54:52.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [We Need to Go Deeper]
+[23Apr2025 03:55:03.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [Hot Stuff]
+[23Apr2025 03:55:13.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [We Need to Go Deeper]
+[23Apr2025 04:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[23Apr2025 04:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/curlyGame/servidor_minecraft/./world/.
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Last backup size: 0B Current world size: 112.4MB Current Available space: 17.5GB ExpectedSize 82.8MB
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:the_other_side save state to true
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[23Apr2025 04:00:00.052] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[23Apr2025 04:00:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:vault save state to true
+[23Apr2025 04:00:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:arena save state to true
+[23Apr2025 04:00:00.053] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[23Apr2025 04:00:00.054] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
+[23Apr2025 04:00:00.055] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[23Apr2025 04:00:00.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 04:00:00.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (arena): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[23Apr2025 04:00:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Apr2025 04:00:00.710] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.de.piegames.blockmap.renderer.RegionRenderer/]: Rendering region file -2 0
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:the_other_side save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:vault save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world the_vault:arena save state to false
+[23Apr2025 04:00:07.239] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[23Apr2025 04:00:07.326] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 85.8MB World Size 112.4MB
+[23Apr2025 04:00:07.327] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
+[23Apr2025 04:00:07.328] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/curlyGame/servidor_minecraft/backups/2025-4-23_4-0-0.zip size: 85.8MB Took: 0m, 7s, 186ms Sha1: f880c93e73c2f8bfec406bd53fdad2850d26cc85
+[23Apr2025 04:02:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
