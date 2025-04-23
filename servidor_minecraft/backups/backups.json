@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1745366400074,
+      "backupLocation": "/workspaces/curlyGame/servidor_minecraft/backups/2025-4-23_0-0-0.zip",
+      "size": 0,
+      "ratio": 0.72875696,
+      "sha1": "a89300b9f491420befec68cd523a3ea26f103c75",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}
