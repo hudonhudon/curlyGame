@@ -300,3 +300,52 @@
 [23Apr2025 04:02:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
 [23Apr2025 04:07:03.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace Brazier Vault!
 [23Apr2025 04:07:04.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace Brazier Vault!
+[23Apr2025 04:17:00.351] [the_vault:vault_49934b3d-03f5-4aa0-b2b7-7b1b9f6511a0/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 04:17:00.352] [the_vault:vault_49934b3d-03f5-4aa0-b2b7-7b1b9f6511a0/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 04:17:00.352] [the_vault:vault_49934b3d-03f5-4aa0-b2b7-7b1b9f6511a0/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 04:17:00.352] [the_vault:vault_49934b3d-03f5-4aa0-b2b7-7b1b9f6511a0/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 04:17:00.352] [the_vault:vault_49934b3d-03f5-4aa0-b2b7-7b1b9f6511a0/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was slain by Crystal Guardian
+[23Apr2025 04:17:00.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Brazier Vault.
+[23Apr2025 04:18:59.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt completed a Brazier Vault!
+[23Apr2025 04:18:59.750] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_49934b3d-03f5-4aa0-b2b7-7b1b9f6511a0
+[23Apr2025 04:19:32.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lugalnt lost connection: Disconnected
+[23Apr2025 04:19:32.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt left the game
+[23Apr2025 04:19:32.353] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Apr2025 04:19:34.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fuki lost connection: Disconnected
+[23Apr2025 04:19:34.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki left the game
+[23Apr2025 04:20:04.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23Apr2025 04:20:05.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2025 04:20:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2025 04:20:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2025 04:20:06.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Apr2025 04:20:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_vault:the_other_side
+[23Apr2025 04:20:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Apr2025 04:20:06.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Apr2025 04:20:06.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_vault:vault
+[23Apr2025 04:20:06.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_vault:arena
+[23Apr2025 04:20:06.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[23Apr2025 04:20:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 04:20:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[23Apr2025 04:20:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 04:20:06.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 04:20:06.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[23Apr2025 04:20:06.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (arena): All chunks are saved
+[23Apr2025 04:20:06.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[23Apr2025 04:20:06.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Apr2025 04:20:06.820] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down scheduler thread
+[23Apr2025 04:20:06.820] [Server thread/INFO] [net.creeperhost.ftbbackups.org.quartz.core.QuartzScheduler/]: Scheduler ftbbackups2_$_NON_CLUSTERED shutting down.
+[23Apr2025 04:20:06.820] [Server thread/INFO] [net.creeperhost.ftbbackups.org.quartz.core.QuartzScheduler/]: Scheduler ftbbackups2_$_NON_CLUSTERED paused.
+[23Apr2025 04:20:06.820] [Server thread/INFO] [net.creeperhost.ftbbackups.org.quartz.core.QuartzScheduler/]: Scheduler ftbbackups2_$_NON_CLUSTERED shutdown complete.
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down the config watcher executor
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down backup cleaning executor
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutting down backup executor
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: =========Checking everything is shut down============
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Scheduler Shutdown:true
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Config watcher Shutdown:true
+[23Apr2025 04:20:06.821] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Cleaner watcher Shutdown:true
+[23Apr2025 04:20:06.822] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup Executor Shutdown:true
+[23Apr2025 04:20:06.822] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: ========Shutdown completed, FTB Backups has now finished shutting down==========
+[23Apr2025 04:20:06.832] [Server thread/INFO] [simplelogin/]: Shutting down player login handler
+[23Apr2025 04:20:06.832] [Server thread/INFO] [simplelogin/]: Disabling all plugins
+[23Apr2025 04:20:06.832] [Server thread/INFO] [simplelogin/]: Saving all entries
+[23Apr2025 04:20:06.835] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
