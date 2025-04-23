@@ -136,3 +136,27 @@
 [23Apr2025 02:00:06.560] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 63.8MB World Size 91.0MB
 [23Apr2025 02:00:06.560] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/curlyGame/servidor_minecraft/backups/backups.json
 [23Apr2025 02:00:06.561] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/curlyGame/servidor_minecraft/backups/2025-4-23_2-0-0.zip size: 63.8MB Took: 0m, 6s, 437ms Sha1: b524b155e74247ea151202293a998a21803e86c8
+[23Apr2025 02:03:17.115] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 02:03:17.115] [Server thread/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 02:03:17.115] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 02:03:17.115] [Server thread/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 02:03:17.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was doomed to fall by Skeleton Pirate
+[23Apr2025 02:03:17.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Elixir Vault.
+[23Apr2025 02:03:24.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46539, l='ServerLevel[world]', x=-593.46, y=154.00, z=296.70] died, message: 'Unemployed hit the ground too hard'
+[23Apr2025 02:05:19.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46556, l='ServerLevel[world]', x=-611.70, y=72.00, z=395.64] died, message: 'Unemployed hit the ground too hard'
+[23Apr2025 02:06:13.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has made the advancement [Diamonds!]
+[23Apr2025 02:06:22.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Magnet transmog.
+[23Apr2025 02:07:06.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano completed a Elixir Vault!
+[23Apr2025 02:07:23.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt completed a Elixir Vault!
+[23Apr2025 02:07:23.287] [Server thread/INFO] [iskallia.vault.VaultMod/]: Deleting level ./world/dimensions/the_vault/vault_4b6d2798-db11-448f-8ce8-2a0821a18f63
+[23Apr2025 02:07:49.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered Good ol' Vanilla Shield transmog.
+[23Apr2025 02:07:51.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Sword_5 transmog.
+[23Apr2025 02:07:52.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has discovered Coconut Shield transmog.
+[23Apr2025 02:08:01.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki has discovered ScrapSword_1 transmog.
+[23Apr2025 02:08:04.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Wooden Wand transmog.
+[23Apr2025 02:08:15.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has reached the goal [Sky's the Limit]
+[23Apr2025 02:08:24.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Sword_4 transmog.
+[23Apr2025 02:09:19.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Rusty Scavenger Chestplate transmog.
+[23Apr2025 02:09:37.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Eternal Flame transmog.
+[23Apr2025 02:09:53.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki opened a Vault!
+[23Apr2025 02:10:28.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
