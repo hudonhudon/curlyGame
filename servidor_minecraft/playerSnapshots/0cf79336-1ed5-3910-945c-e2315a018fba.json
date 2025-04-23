@@ -2,20 +2,20 @@
   "version": 1,
   "playerUUID": "0cf79336-1ed5-3910-945c-e2315a018fba",
   "playerNickname": "lugalnt",
-  "timestamp": 1745367820,
+  "timestamp": 1745371273,
   "completed": 0,
-  "survived": 1,
+  "survived": 2,
   "failed": 0,
-  "vaultLevel": 1,
-  "levelPercent": 0.4845,
+  "vaultLevel": 2,
+  "levelPercent": 0.61466664,
   "vanillaAttributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 7.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.attack_speed": 1.5999999046325684,
+    "minecraft:generic.armor": 9.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -71,8 +71,8 @@
     "the_vault:velara_affinity": 0.0
   },
   "summaryAttributes": {
-    "dps": 4.0,
-    "defense": 0.08653849913523715
+    "dps": 11.199999332427979,
+    "defense": 0.09577631892936722
   },
   "reputation": {
     "Velara": 0,
@@ -81,39 +81,46 @@
     "Idona": 0
   },
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:diamond_sword",
+      "count": 1,
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"e67c3ef7-f108-4f55-89a1-f1cc0cc59637\",\"attributes\":[]}"
+    },
     "OFFHAND": {
       "itemKey": "minecraft:shield",
       "count": 1,
       "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"57dbef09-fe98-4aef-ac0e-6ccdc82a4689\",\"attributes\":[]}"
+      "gearData": "{\"id\":\"1617fe51-dc6c-40c3-b9d3-4c1ca02d99fb\",\"attributes\":[]}"
     },
     "FEET": {
       "itemKey": "minecraft:iron_boots",
       "count": 1,
-      "nbt": "{Damage:60}",
-      "gearData": "{\"id\":\"3a9fc86d-c7b1-4267-a395-05c708cee7ec\",\"attributes\":[]}"
+      "nbt": "{Damage:91}",
+      "gearData": "{\"id\":\"38649fcc-7946-4bf0-814d-ab9f4c0be214\",\"attributes\":[]}"
     },
     "LEGS": {
       "itemKey": "minecraft:iron_leggings",
       "count": 1,
-      "nbt": "{Damage:48}",
-      "gearData": "{\"id\":\"793ece24-9299-41d9-bf23-1d5c3ff1729f\",\"attributes\":[]}"
+      "nbt": "{Damage:79}",
+      "gearData": "{\"id\":\"bc276a16-ae11-4f2b-a906-7eb39dbc5679\",\"attributes\":[]}"
     },
     "CHEST": {
-      "itemKey": "minecraft:iron_chestplate",
+      "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Damage:60}",
-      "gearData": "{\"id\":\"d9d0baf1-1b4b-4c26-9659-be4e2f5ec1b1\",\"attributes\":[]}"
+      "nbt": "{Damage:0}",
+      "gearData": "{\"id\":\"bb2de47a-7bfa-464e-b5d3-455c94241d73\",\"attributes\":[]}"
     },
     "HEAD": {
       "itemKey": "minecraft:iron_helmet",
       "count": 1,
-      "nbt": "{Damage:48}",
-      "gearData": "{\"id\":\"0163faf3-f618-45f2-87ef-901974e42204\",\"attributes\":[]}"
+      "nbt": "{Damage:79}",
+      "gearData": "{\"id\":\"398d08df-89b3-4e1b-8960-17bad75d680f\",\"attributes\":[]}"
     }
   },
   "abilities": {
-    "Heal_Base": 1
+    "Heal_Base": 1,
+    "Vein_Miner_Base": 1
   },
   "talents": {},
   "expertises": {},

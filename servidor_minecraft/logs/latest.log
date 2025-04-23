@@ -74,3 +74,13 @@
 [23Apr2025 00:54:31.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano has discovered Druid Chestplate transmog.
 [23Apr2025 00:56:07.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Skeleton
 [23Apr2025 00:58:27.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/23854, l='ServerLevel[world]', x=-651.30, y=71.05, z=445.53] died, message: 'Armorer drowned'
+[23Apr2025 01:14:09.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt has made the advancement [Cover Me with Diamonds]
+[23Apr2025 01:21:10.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 01:21:12.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Natanael__Cano entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 01:21:13.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lugalnt entered a 1x Beginner's Grace, 1x Beginner's Insurance Elixir Vault!
+[23Apr2025 01:26:00.452] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 01:26:00.452] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [iskallia.vault.VaultMod/]: true
+[23Apr2025 01:26:00.452] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 01:26:00.452] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [iskallia.vault.VaultMod/]: false
+[23Apr2025 01:26:00.453] [the_vault:vault_7de166ed-c02f-4db0-8c77-dbf6e96de9e2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was shot by Ghastly Pirate Guardian
+[23Apr2025 01:26:00.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fuki was defeated in a Elixir Vault.

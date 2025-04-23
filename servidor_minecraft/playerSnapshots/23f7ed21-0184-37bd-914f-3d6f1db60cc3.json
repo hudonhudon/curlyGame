@@ -2,10 +2,10 @@
   "version": 1,
   "playerUUID": "23f7ed21-0184-37bd-914f-3d6f1db60cc3",
   "playerNickname": "fuki",
-  "timestamp": 1745367824,
+  "timestamp": 1745371270,
   "completed": 0,
   "survived": 0,
-  "failed": 1,
+  "failed": 2,
   "vaultLevel": 0,
   "levelPercent": 0.0,
   "vanillaAttributes": {
@@ -81,43 +81,40 @@
     "Idona": 0
   },
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "the_vault:quest_book",
-      "count": 1,
-      "gearData": "{\"id\":\"bc0064d7-46d2-46ce-80e0-d248bcf12a9f\",\"attributes\":[]}"
-    },
     "OFFHAND": {
       "itemKey": "minecraft:shield",
       "count": 1,
       "nbt": "{Damage:0}",
-      "gearData": "{\"id\":\"40d6d115-e137-4cc9-ac9d-ff2c457eb940\",\"attributes\":[]}"
+      "gearData": "{\"id\":\"7eff49a0-492d-40d7-b043-037763e72b77\",\"attributes\":[]}"
     },
     "FEET": {
       "itemKey": "minecraft:iron_boots",
       "count": 1,
-      "nbt": "{Damage:53}",
-      "gearData": "{\"id\":\"43535494-cef9-4ebb-ae0d-7344343d7709\",\"attributes\":[]}"
+      "nbt": "{Damage:86}",
+      "gearData": "{\"id\":\"4c02e584-1ddf-435b-af61-2d2d2af01f18\",\"attributes\":[]}"
     },
     "LEGS": {
       "itemKey": "minecraft:iron_leggings",
       "count": 1,
-      "nbt": "{Damage:36}",
-      "gearData": "{\"id\":\"179fb361-8e70-4e59-84bc-32c1cb0945b0\",\"attributes\":[]}"
+      "nbt": "{Damage:69}",
+      "gearData": "{\"id\":\"fedc9b48-6c58-4850-871b-ba155bac414c\",\"attributes\":[]}"
     },
     "CHEST": {
       "itemKey": "minecraft:iron_chestplate",
       "count": 1,
-      "nbt": "{Damage:53}",
-      "gearData": "{\"id\":\"3ca51f4c-3c22-4081-8b17-52eacc98a0ff\",\"attributes\":[]}"
+      "nbt": "{Damage:86}",
+      "gearData": "{\"id\":\"c0ec5b34-0619-447f-b9ee-74abf6cc93f5\",\"attributes\":[]}"
     },
     "HEAD": {
       "itemKey": "minecraft:iron_helmet",
       "count": 1,
-      "nbt": "{Damage:36}",
-      "gearData": "{\"id\":\"2502b54f-7635-4096-ba94-349a851f8b83\",\"attributes\":[]}"
+      "nbt": "{Damage:69}",
+      "gearData": "{\"id\":\"3b489c54-1136-4a53-a459-6c067d7395c9\",\"attributes\":[]}"
     }
   },
-  "abilities": {},
+  "abilities": {
+    "Totem_Mana_Regen": 1
+  },
   "talents": {},
   "expertises": {},
   "researches": [],
